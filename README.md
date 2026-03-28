@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 GitHub Overview
-![denjix47's GitHub stats](https://github-readme-stats.vercel.app/api?username=denjix47&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denjix47&layout=compact&theme=tokyonight)
-
----
-
 ## 🧠 Goals
 - Build solid foundations in **data science and AI**  
 - Combine analytical skills with creativity for impactful insights  
